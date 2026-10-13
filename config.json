@@ -8,5 +8,12 @@
     "In Building Phase..... | 30 oct 2026 | "
   ],
   "mission": "The Department of Artificial Intelligence & Data Science is built to turn curious students into confident practitioners...",
-  "about1": "Data Sphere is the student-run club of the AI & DS department..."
+  "about1": "Data Sphere is the student-run club of the AI & DS department...",
+  "socialLinks": [
+    "Instagram | https://instagram.com/REPLACE_WITH_YOUR_HANDLE",
+    "WhatsApp | https://wa.me/REPLACE_WITH_YOUR_NUMBER"
+  ],
+  "privacyUrl": "https://REPLACE_WITH_YOUR_PRIVACY_POLICY_LINK",
+  "termsUrl": "https://REPLACE_WITH_YOUR_TERMS_LINK",
+  "copyrightText": "Data Sphere Club, Preetham, Don Bosco Institute of Technology, Bengaluru. All rights reserved."
 }
