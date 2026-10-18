@@ -30,7 +30,10 @@
     "Do I need prior experience? | No — beginners are welcome. Curiosity matters more than experience.",
     "How do I register? | Use the Register button on this page and fill in the Google Form."
   ],
-  "leaderboard": [],
+  "leaderboard": [
+    "Preetham | 20",
+    "Sharath |40|Developer"
+  ],
   "leaderboardNote": "",
-  "leaderboardUpdated": "2026-10-18T15:05:47.395Z"
+  "leaderboardUpdated": "2026-10-18T15:07:28.797Z"
 }
