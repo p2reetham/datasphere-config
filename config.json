@@ -17,7 +17,7 @@
   "privacyUrl": "/privacy.html",
   "termsUrl": "/terms.html",
   "copyrightText": "Data Sphere Club, Preetham, Don Bosco Institute of Technology, Bengaluru. All rights reserved.",
-  "regOpen": true,
+  "regOpen": false,
   "regClosedMsg": "Registrations are closed for now — follow our social links for the next event or reach out to us in WhatsApp!",
   "announcement": "",
   "announcementUrl": "",
