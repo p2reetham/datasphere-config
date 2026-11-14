@@ -24,7 +24,7 @@
   "announcementUrl": "",
   "team": [
     "Name coming soon | Faculty Coordinator",
-    "Name coming soon | Club President",
+    "Mervyn Fernendas | Club President",
     "Name coming soon | Vice President"
   ],
   "faq": [
@@ -33,7 +33,9 @@
     "How do I register? | Use the Register button on this page and fill in the Google Form.",
     "How can i be part of this Club| Reach out to one of the admin or coordinator in WhatsApp group or Instagram given below"
   ],
-  "leaderboard": [],
+  "leaderboard": [
+    "Preetham|100"
+  ],
   "leaderboardNote": "",
-  "leaderboardUpdated": "2026-10-18T15:08:50.229Z"
+  "leaderboardUpdated": "2026-11-14T07:31:55.057Z"
 }
